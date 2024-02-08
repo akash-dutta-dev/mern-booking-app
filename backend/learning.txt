@@ -1,0 +1,12 @@
+React-hook-form 
+It helps simplyfing complex form code.
+If a form has multiple input fields it is better to use react-form-hook.. 
+It simplies the code by reducing states, onchange, onsubmit, error handling, etc..
+
+Always declare types/ interface
+If using typescript, for javascript not required.
+
+react-hook-form
+react-query
+
+React-query helps in caching, retries, dedouping
